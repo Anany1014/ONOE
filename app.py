@@ -196,7 +196,7 @@ with st.sidebar:
         t['nav_quiz']
     ])
     
-    st.info("Developed by GGSIPU Students")
+    st.info("Developed by Team TECHVISION")
     st.info("Voter Helpline Toll Free Number- 1950")
 
 # Load Data
@@ -475,3 +475,4 @@ st.markdown("""
     <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
     </div>
     """, unsafe_allow_html=True)
+
