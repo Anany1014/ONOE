@@ -141,18 +141,28 @@ translations = {
         'nav_quiz': "🧠 Voter Quiz",
         'nav_myth': "🛡️ Myth Buster",
         'welcome': "Welcome to the ONOE Voter Hub",
-        'intro': "A student-led initiative to explain the 'One Nation One Election' proposal using data and facts.",
+        'intro': "A student-led initiative to explain the 'One Nation One Election' proposal.",
+        'what_is_title': "What is ONOE?",
+        'what_is_desc': "ONOE is a proposal to synchronize elections for the Lok Sabha and all State Assemblies to once every five years.",
+        'metric_voters': "Total Voters (2024)",
         'pros': "Potential Benefits",
         'cons': "Potential Challenges",
+        'pros_list': "- **Cost Efficiency:** Massive reduction in recurring poll expenditure.\n - **Governance:** Govt focuses on work rather than constant 'Code of Conduct'. \n- **Voter Fatigue:** Reduces apathy from frequent voting.\n- **Reduced Financial Burden:** Synchronizing elections cuts the massive recurring costs of logistics, security, and administration.\n- **Continuity in Governance:** It limits the disruption of the Model Code of Conduct to once every five years.\n- **Increased Efficiency:** Essential staff like teachers and security forces remain focused on core duties instead of frequent election duty.\n- **Higher Voter Turnout:** Consolidating elections combats voter fatigue and may encourage more citizens to vote.\n- **Focus on Long-term Policy:** Governments can pursue structural reforms rather than short-term populist measures for frequent state polls.\n- **Reduced Social Polarization:** Limiting campaign periods reduces the frequency of divisive communal and caste-based rhetoric.\n- **Curbing Horse-Trading:** Simultaneous polls may stabilize coalitions and reduce unethical legislative trading.",
+        'cons_list': "- **Federalism:** National issues might overshadow local state issues.\n- **Logistics:** Requires 2x EVMs and VVPATs instantly.\n- **Constitutional:** Requires amendments to Article 83, 172, etc.\n- **Threat to Federalism:** National issues may overshadow critical local and regional concerns during voting.\n- **Disadvantage to Regional Parties:** Smaller parties may struggle to compete with the resources and reach of national parties.\n- **Constitutional Challenges:** Implementation requires complex amendments regarding the tenure of houses and President's Rule.\n- **Logistical Nightmares:** Deploying security and EVMs for the entire country simultaneously creates immense operational pressure.\n- **Impact of 'Wave' Voting:** Voters may mistakenly cast ballots for the same party at both levels, reducing regional checks and balances.\n- **Handling Hung Assemblies:** Mid-term government collapses create confusion on how to manage the remainder of the term.\n- **Reduced Accountability:** A five-year gap between elections may make representatives less responsive to public grievances.",
         'sim_title': "Policy Impact Simulator",
-        'sim_desc': "Adjust sliders to see how ONOE could affect costs and voter turnout in your state.",
+        'sim_desc': "Adjust sliders to see cost and turnout effects.",
         'state_sel': "Select State",
         'freq_sel': "Election Frequency (Years)",
         'turnout_sel': "Projected Turnout Change (%)",
         'calc_save': "Calculate Savings",
+        'savings_label': "Est. Savings (5 Yrs)",
+        'turnout_label': "Projected Turnout",
+        'download_btn': "Download Report (Excel)",
+        'myth_title': "Myth Buster",
+        'myth_search': "Search keywords...",
         'quiz_title': "Test Your Knowledge",
-        'check_btn': "Check Fact",
-        'source': "Source"
+        'source': "Source",
+        'footer': "Sources: ECI Reports, NITI Aayog. Educational simulation only."
     },
     'Hindi': {
         'title': "एक देश एक चुनाव: वोटर हब",
@@ -162,18 +172,27 @@ translations = {
         'nav_quiz': "🧠 प्रश्नोत्तरी",
         'nav_myth': "🛡️ मिथक निवारण",
         'welcome': "ONOE वोटर हब में आपका स्वागत है",
-        'intro': "डेटा और तथ्यों का उपयोग करके 'एक देश एक चुनाव' प्रस्ताव को समझाने की एक छात्र पहल।",
+        'intro': "डेटा और तथ्यों का उपयोग करके 'एक देश एक चुनाव' को समझाने की एक छात्र पहल।",
+        'what_is_title': "ONOE क्या है?",
+        'what_is_desc': "लोकसभा और सभी राज्य विधानसभाओं के लिए हर पांच साल में एक बार चुनाव कराने का प्रस्ताव है।",
+        'metric_voters': "कुल मतदाता (2024)",
         'pros': "संभावित लाभ",
         'cons': "संभावित चुनौतियां",
+        'pros_list': "- **लागत दक्षता:** आवर्ती चुनाव व्यय में भारी कमी.\n - **शासन:** सरकार निरंतर 'आचार संहिता' के बजाय काम पर ध्यान केंद्रित करती है। \n- **मतदाता थकान:** बार-बार मतदान करने से उदासीनता कम हो जाती है।\n- **वित्तीय बोझ में कमी:** चुनावों को सिंक्रनाइज़ करने से लॉजिस्टिक्स, सुरक्षा और प्रशासन की भारी आवर्ती लागत में कटौती होती है.\n- **शासन में निरंतरता:** यह आदर्श आचार संहिता के व्यवधान को हर पांच साल में एक बार तक सीमित करता है.\n- **बढ़ी हुई दक्षता:** शिक्षकों और सुरक्षा बलों जैसे आवश्यक कर्मचारी बार-बार चुनाव ड्यूटी के बजाय मुख्य कर्तव्यों पर ध्यान केंद्रित करते हैं.\n- **उच्च मतदान प्रतिशत:**  चुनावों को मजबूत करने से मतदाताओं की थकान का मुकाबला होता है और अधिक नागरिकों को मतदान करने के लिए प्रोत्साहित किया जा सकता है.\n- **दीर्घकालिक नीति पर ध्यान दें:** सरकारें लगातार राज्य चुनावों के लिए अल्पकालिक लोकलुभावन उपायों के बजाय संरचनात्मक सुधारों को आगे बढ़ा सकती हैं.\n- **सामाजिक ध्रुवीकरण में कमी:** अभियान की अवधि को सीमित करने से विभाजनकारी सांप्रदायिक और जाति-आधारित बयानबाजी की आवृत्ति कम हो जाती है.\n- **हॉर्स-ट्रेडिंग पर अंकुश लगाना:** एक साथ चुनाव गठबंधन को स्थिर कर सकते हैं और अनैतिक विधायी व्यापार को कम कर सकते हैं।",
+        'cons_list': "- **संघवाद:** राष्ट्रीय मुद्दे स्थानीय राज्य के मुद्दों पर हावी हो सकते हैं.\n- **रसद:** तुरंत 2x ईवीएम और वीवीपैट की आवश्यकता होती है.\n- **संवैधानिक:** अनुच्छेद 83, 172, आदि में संशोधन की आवश्यकता है.\n- **संघवाद के लिए खतरा:** राष्ट्रीय मुद्दे मतदान के दौरान महत्वपूर्ण स्थानीय और क्षेत्रीय चिंताओं पर हावी हो सकते हैं.\n- **क्षेत्रीय दलों के लिए नुकसान:** छोटे दलों को राष्ट्रीय दलों के संसाधनों और पहुंच के साथ प्रतिस्पर्धा करने के लिए संघर्ष करना पड़ सकता है.\n- **संवैधानिक चुनौतियां:**  कार्यान्वयन के लिए सदनों के कार्यकाल और राष्ट्रपति शासन के संबंध में जटिल संशोधनों की आवश्यकता होती है.\n- **लॉजिस्टिक बुरे सपने:** पूरे देश के लिए सुरक्षा और ईवीएम को एक साथ तैनात करने से अत्यधिक परिचालन दबाव पैदा होता है.\n- **'वेव' मतदान का प्रभाव:** मतदाता गलती से दोनों स्तरों पर एक ही पार्टी के लिए मतपत्र डाल सकते हैं, जिससे क्षेत्रीय जांच और संतुलन कम हो जाता है.\n- **त्रिशंकु विधानसभाओं को संभालना:** मध्यावधि सरकार के पतन से शेष अवधि का प्रबंधन करने के तरीके पर भ्रम पैदा होता है.\n-  **जवाबदेही में कमी:** चुनावों के बीच पांच साल का अंतर प्रतिनिधियों को सार्वजनिक शिकायतों के प्रति कम उत्तरदायी बना सकता है।",
         'sim_title': "नीति प्रभाव सिम्युलेटर",
-        'sim_desc': "यह देखने के लिए स्लाइडर्स समायोजित करें कि ONOE आपके राज्य में लागत और मतदान को कैसे प्रभावित कर सकता है।",
+        'sim_desc': "लागत और मतदान पर प्रभाव देखने के लिए स्लाइडर्स का उपयोग करें।",
         'state_sel': "राज्य चुनें",
         'freq_sel': "चुनाव आवृत्ति (वर्ष)",
         'turnout_sel': "अनुमानित मतदान परिवर्तन (%)",
         'calc_save': "बचत की गणना करें",
+        'savings_label': "अनुमानित बचत (5 वर्ष)",        'turnout_label': "अनुमानित मतदान",
+        'download_btn': "रिपोर्ट डाउनलोड करें (Excel)",
+        'myth_title': "मिथक निवारण",
+        'myth_search': "कीवर्ड खोजें...",
         'quiz_title': "अपना ज्ञान परखें",
-        'check_btn': "तथ्य जांचें",
-        'source': "स्रोत"
+        'source': "स्रोत",
+        'footer': "स्रोत: ECI रिपोर्ट, नीति आयोग। केवल शैक्षिक उद्देश्य के लिए।"
     }
 }
 
@@ -209,52 +228,23 @@ if page == t['nav_home']:
     st.title(t['title'])
     st.caption(t['subtitle'])
     
-    # Hero Section
     col1, col2 = st.columns([2, 1])
     with col1:
         st.markdown(f"### {t['welcome']}")
         st.write(t['intro'])
-        st.markdown("""
-        **What is ONOE?**  
-        One Nation, One Election (ONOE) is a proposal to synchronize elections for the Lok Sabha (central parliament) and all State Assemblies so that voters cast ballots for both on the same day or within the same schedule once every five years.
-        """)
+        st.markdown(f"**{t['what_is_title']}**")
+        st.write(t['what_is_desc'])
     with col2:
-        st.metric(label="Total Voters in India (2024)", value="96.8 Cr", delta="+6% vs 2019")
+        st.metric(label=t['metric_voters'], value="96.8 Cr", delta="+6% vs 2019")
 
     st.divider()
-
-    # Pros vs Cons Table
     c1, c2 = st.columns(2)
     with c1:
         st.subheader(f"✅ {t['pros']}")
-        st.success("""
-        - **Cost Efficiency:** Massive reduction in recurring poll expenditure.
-        - **Governance:** Govt focuses on work rather than constant 'Code of Conduct'.
-        - **Voter Fatigue:** Reduces apathy from frequent voting.
-        - **Reduced Financial Burden:** Synchronizing elections cuts the massive recurring costs of logistics, security, and administration.
-        - **Continuity in Governance:** It limits the disruption of the Model Code of Conduct to once every five years.
-        - **Increased Efficiency:** Essential staff like teachers and security forces remain focused on core duties instead of frequent election duty.
-        - **Higher Voter Turnout:** Consolidating elections combats voter fatigue and may encourage more citizens to vote.
-        - **Focus on Long-term Policy:** Governments can pursue structural reforms rather than short-term populist measures for frequent state polls.
-        - **Reduced Social Polarization:** Limiting campaign periods reduces the frequency of divisive communal and caste-based rhetoric.
-        - **Curbing Horse-Trading:** Simultaneous polls may stabilize coalitions and reduce unethical legislative trading.
-         
-        """)
+        st.success(t['pros_list'])
     with c2:
         st.subheader(f"⚠️ {t['cons']}")
-        st.error("""
-        - **Federalism:** National issues might overshadow local state issues.
-        - **Logistics:** Requires 2x EVMs and VVPATs instantly.
-        - **Constitutional:** Requires amendments to Article 83, 172, etc.
-        - **Threat to Federalism:** National issues may overshadow critical local and regional concerns during voting.
-        - **Disadvantage to Regional Parties:** Smaller parties may struggle to compete with the resources and reach of national parties.
-        - **Constitutional Challenges:** Implementation requires complex amendments regarding the tenure of houses and President's Rule.
-        - **Logistical Nightmares:** Deploying security and EVMs for the entire country simultaneously creates immense operational pressure.
-        - **Impact of "Wave" Voting:** Voters may mistakenly cast ballots for the same party at both levels, reducing regional checks and balances.
-        - **Handling Hung Assemblies:** Mid-term government collapses create confusion on how to manage the remainder of the term.
-        - **Reduced Accountability:** A five-year gap between elections may make representatives less responsive to public grievances.
-                            
-        """)
+        st.error(t['cons_list'])
 
 # ==========================================
 # 5. PAGE: SIMULATOR
@@ -475,5 +465,3 @@ st.markdown("""
     <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
     </div>
     """, unsafe_allow_html=True)
-
-
