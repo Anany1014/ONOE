@@ -45,7 +45,6 @@ st.markdown("""
 # 2. DATA & TRANSLATIONS (Hardcoded)
 # ==========================================
 
-# Mock Data: ECI Statistics for 5 Major States (Representative values)
 @st.cache_data
 def load_data():
     data = {
@@ -465,5 +464,6 @@ st.markdown("""
     <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
     </div>
     """, unsafe_allow_html=True)
+
 
 
