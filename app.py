@@ -181,7 +181,7 @@ translations = {
 # 3. SIDEBAR & NAVIGATION
 # ==========================================
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/240px-Emblem_of_India.svg.png", width=100)
+    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/240px-Emblem_of_India.svg.png", width=200)
     st.title("Menu / मेन्यू")
     
     # Language Toggle
@@ -475,4 +475,5 @@ st.markdown("""
     <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
     </div>
     """, unsafe_allow_html=True)
+
 
