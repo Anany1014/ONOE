@@ -50,10 +50,10 @@ st.markdown("""
 def load_data():
     data = {
         'State': ['Uttar Pradesh', 'Maharashtra', 'West Bengal', 'Bihar', 'Tamil Nadu', 'NCT of Delhi'],
-        'Voters (Cr)': [15.3, 9.2, 7.5, 7.6, 6.2, 1.5],
+        'Voters (Cr)': [15.4, 9.3, 7.6, 7.7, 6.2, 1.5],
         'Est. Election Cost (₹ Cr)': [4500, 3200, 2800, 2500, 2100, 1500],
-        'Turnout (%)': [59.2, 61.0, 82.0, 57.3, 72.0, 58.8],
-        'Polling Stations': [163000, 96000, 78000, 72000, 68000, 13600]
+        'Turnout (%)': [57.0, 61.5, 79.5, 56.3, 70.1, 58.8],
+        'Polling Stations': [162069, 98140, 80530, 77462, 68321, 13641]
     }
     return pd.DataFrame(data)
 
@@ -465,4 +465,5 @@ st.markdown("""
     <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
     </div>
     """, unsafe_allow_html=True)
+
 
