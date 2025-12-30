@@ -460,10 +460,10 @@ elif page == t['nav_quiz']:
 # ==========================================
 st.markdown("""
     <div style='text-align: center; color: grey; padding-top: 50px;'>
-    <p>Sources: ECI Reports, NITI Aayog Papers, Law Commission of India.</p>
-    <p><i>Note: This is a simulation tool for educational purposes only.</i></p>
+    <p>Sources: Election Commission of India Reports, NITI Aayog Papers, Law Commission of India.</p>
     </div>
     """, unsafe_allow_html=True)
+
 
 
 
