@@ -66,3 +66,47 @@ You need `streamlit`, `pandas`, `matplotlib`, and `openpyxl` (for Excel export).
 The app will open automatically in your default web browser at `http://localhost:8501`.
 
 ---
+
+## 📂 Project Structure
+
+onoe-voter-hub
+│
+├── app.py # Main application entry point
+├── requirements.txt # List of dependencies
+└── README.md # Project documentation
+
+---
+
+## 📸 Usage Guide
+
+1. **Select Language:** Use the sidebar radio button to switch between English and Hindi.
+2. **Navigate:** Choose a module (Simulator, Myth Buster, Quiz) from the sidebar menu.
+3. **Simulate:** Go to the "Impact Simulator," select a state (e.g., Uttar Pradesh), and adjust the sliders to see how ONOE affects costs.
+4. **Download:** Click "Download Report" in the simulator to save your findings.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+---
+
+## 📜 Disclaimer & Credits
+
+- **Data Source:** This application uses **representative mock data** based on public reports (ECI, Law Commission, NITI Aayog) for educational simulation purposes. It is not an official government tool.
+- **Developed By:** Team TECHVISION
+- **Helpline:** Voter Helpline Toll Free Number - 1950
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
