@@ -66,4 +66,3 @@ You need `streamlit`, `pandas`, `matplotlib`, and `openpyxl` (for Excel export).
 The app will open automatically in your default web browser at `http://localhost:8501`.
 
 ---
-
