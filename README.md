@@ -39,3 +39,31 @@ The app features bilingual support (English & Hindi), financial simulations, myt
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Frontend/Backend:** [Streamlit](https://streamlit.io/) (Python)
+- **Data Manipulation:** Pandas, NumPy
+- **Visualization:** Matplotlib
+- **I/O:** BytesIO (for Excel file handling)
+
+---
+
+## 🚀 Installation & Setup
+
+Follow these steps to run the application locally.
+
+### Prerequisites
+Ensure you have **Python 3.7+** installed.
+
+### 1. Clone the Repository
+
+### 2. Create a Virtual Environment (Optional but Recommended)
+
+### 3. Install Dependencies
+You need `streamlit`, `pandas`, `matplotlib`, and `openpyxl` (for Excel export).
+
+### 4. Run the Application
+The app will open automatically in your default web browser at `http://localhost:8501`.
+
+---
+
